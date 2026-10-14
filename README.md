@@ -14,6 +14,18 @@
 | 로컬 메인 페이지 | [index.html](./index.html) |
 | 팀원 프로필 페이지 | [pages/](./pages/) |
 
+## 서비스 화면
+
+실제 배포 사이트에서 캡처한 화면입니다. 소개에서 팀원 프로필과 학기 활동 성과로 이어지는 탐색 흐름을 보여줍니다.
+
+| 팀 소개 | 동아리 소개 |
+| :---: | :---: |
+| ![Semicolon 팀 페이지 첫 화면](./docs/screenshots/01-team-home.png) | ![동아리 소개와 기술 스택](./docs/screenshots/02-about.png) |
+
+| 팀원 프로필 탐색 | 1학기 활동 성과 |
+| :---: | :---: |
+| ![팀원 프로필 카드](./docs/screenshots/03-members.png) | ![정기 미팅과 스터디 등 활동 성과](./docs/screenshots/04-results.png) |
+
 
 ## 이 웹사이트는 무엇인가요?
 
